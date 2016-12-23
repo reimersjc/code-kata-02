@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/reimersjc/code-kata-02.svg?branch=master)](https://travis-ci.org/reimersjc/code-kata-02)
+
 # Code Kata 02
 
 Implementation of the Karate Chop 
